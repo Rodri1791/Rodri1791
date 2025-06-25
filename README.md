@@ -10,7 +10,7 @@
 
 ### FOLLOW ME :point_down: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-malml%C3%B6f/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-malmlof/) 
 <hr>
 
 ## Tech tools :bowtie:
